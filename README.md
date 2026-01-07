@@ -110,4 +110,4 @@ MIT License — Free to use, modify, and share.
 
 ## 🙌 Author
 
-Made by **AMAN DIXIT** — as a compiler design project in C.
+Made by **VIBHU YADAV** — as a compiler design project in C.
